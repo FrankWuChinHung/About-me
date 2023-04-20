@@ -19,6 +19,11 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 - Environment architecture: Spark, Docker, Hadoop
 
 
+## Contact Information
+- Mobile Phone：+886 0928043382
+- E-mail：frank5300110@gmail.com
+
+
 # 自我介紹
 
 我曾在金融領域有多年經驗，現正計畫轉換跑道進入資訊領域，透過自我學習及進修專業技能，朝自己熱愛的方向發展。
@@ -39,7 +44,14 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 - 資料庫設計類：MySQL
 - 環境架構類：Spark、Docker、Hadoop
 
+
 ## 個人經歷
 - 中國信託資融股份有限公司 - 業務襄理 - 企業金融貸款業務
 - 一銀租賃股份有限公司 - 業務專員 - 企業金融貸款業務
 - 博琝實業有限公司 - 業務專員 - 國內外業務
+
+
+## 聯絡方式
+- 手機：+886 0928043382
+- 信箱：frank5300110@gmail.com
+
