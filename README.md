@@ -1,5 +1,25 @@
-# 自我介紹
 # about_me
+
+I have several years of experience in the financial industry, but I am currently planning to transition into the field of information technology. Through self-learning and professional training, I am pursuing my passion in this direction.
+
+Previously, I worked as a corporate finance professional at both First Bank and China Trust, giving me a strong understanding of financial business operations. However, I quickly discovered my passion for information technology and decided to shift my career focus in this direction.
+
+Currently, I am majoring in Big Data Analytics and have acquired skills in Python, Java, Linux, Hadoop, Docker, MySQL, and machine learning. These skills have not only expanded my technical capabilities but have also allowed me to better understand the latest trends and developments in the information technology industry.
+
+I believe that my financial background and knowledge in information technology will be an advantage that will enable me to make a significant impact in the field.
+
+I hope to apply the knowledge and skills that I have acquired to meet the needs of the industry or academic research.
+
+
+## Job skills (depending on tasks):
+- Operating systems: Windows, Linux (Ubuntu, Fedora, Kali)
+- Programming: Python, Java, R
+- Web technologies: JavaScript, HTML
+- Database design: MySQL
+- Environment architecture: Spark, Docker, Hadoop
+
+
+# 自我介紹
 
 我曾在金融領域有多年經驗，現正計畫轉換跑道進入資訊領域，透過自我學習及進修專業技能，朝自己熱愛的方向發展。
 
