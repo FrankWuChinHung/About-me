@@ -20,7 +20,6 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 
 
 ## Contact Information
-- Mobile Phone：+886 0928043382
 - E-mail：frank5300110@gmail.com
 
 
@@ -52,6 +51,5 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 
 
 ## 聯絡方式
-- 手機：+886 0928043382
 - 信箱：frank5300110@gmail.com
 
