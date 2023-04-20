@@ -1,4 +1,4 @@
-# about_me
+# About me
 
 I have several years of experience in the financial industry, but I am currently planning to transition into the field of information technology. Through self-learning and professional training, I am pursuing my passion in this direction.
 
