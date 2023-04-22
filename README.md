@@ -42,6 +42,7 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 - 網頁技術類：JavaScript、HTML
 - 資料庫設計類：MySQL
 - 環境架構類：Spark、Docker、Hadoop
+- 視覺化與繪圖類：Tableau、Adobe Illustrator
 
 
 ## 個人經歷
