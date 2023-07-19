@@ -46,6 +46,7 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 
 
 ## 個人經歷
+- 國泰世華商業銀行股份有限公司 - 中台發展部 - 維運測試工程師
 - 中國信託資融股份有限公司 - 業務襄理 - 企業金融貸款業務
 - 一銀租賃股份有限公司 - 業務專員 - 企業金融貸款業務
 - 博琝實業有限公司 - 業務專員 - 國內外業務
