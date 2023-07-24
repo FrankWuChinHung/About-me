@@ -2,7 +2,7 @@
 
 I have several years of experience in the financial industry, but I am currently planning to transition into the field of information technology. Through self-learning and professional training, I am pursuing my passion in this direction.
 
-Previously, I worked as a corporate finance professional at both First Bank and China Trust, giving me a strong understanding of financial business operations. However, I quickly discovered my passion for information technology and decided to shift my career focus in this direction.
+Previously, I worked as a corporate finance professional, it giving me a strong understanding of financial business operations. However, I quickly discovered my passion for information technology and decided to shift my career focus in this direction.
 
 Currently, I am majoring in Big Data Analytics and have acquired skills in Python, Java, Linux, Hadoop, Docker, MySQL, and machine learning. These skills have not only expanded my technical capabilities but have also allowed me to better understand the latest trends and developments in the information technology industry.
 
