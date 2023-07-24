@@ -1,6 +1,6 @@
 # About me
 
-I have several years of experience in the financial industry, but I am currently planning to transition into the field of information technology. Through self-learning and professional training, I am pursuing my passion in this direction.
+I have several years of experience in the financial industry, but now I work into the field of information technology. Through self-learning and professional training, I am pursuing my passion in this direction.
 
 Previously, I worked as a corporate finance professional, it giving me a strong understanding of financial business operations. However, I quickly discovered my passion for information technology and decided to shift my career focus in this direction.
 
@@ -25,7 +25,7 @@ I hope to apply the knowledge and skills that I have acquired to meet the needs 
 
 # 自我介紹
 
-我曾在傳統產業與金融領域有些年經驗，現已轉換跑道進入資訊領域，透過自我學習及進修專業技能，朝自己熱愛的方向發展。
+我曾在金融領域有些年經驗，現已轉換跑道進入資訊領域，透過自我學習及進修專業技能，朝自己熱愛的方向發展。
 
 我曾擔任過企業金融業務開發，對企業金融領域的業務和運作非常熟悉。然而，我很快發現了自己對資訊科技的熱愛，因此，我在自己的職業生涯中決定轉向資訊領域。
 
